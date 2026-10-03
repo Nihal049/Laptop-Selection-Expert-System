@@ -1,0 +1,13 @@
+# =============================================================================
+# Laptop Selection Expert System - Requirements
+# =============================================================================
+# This application relies entirely on the Python Standard Library (Tkinter).
+# No external third-party packages, machine learning frameworks, or cloud APIs
+# are required.
+#
+# Supported Python Version: Python 3.8+ (including Python 3.10, 3.11, 3.12, 3.13, 3.14+)
+# Tkinter is bundled with standard Python installers on Windows and macOS.
+#
+# On Linux (Debian/Ubuntu), if Tkinter is not already present, install it via:
+#   sudo apt-get install python3-tk
+# =============================================================================
