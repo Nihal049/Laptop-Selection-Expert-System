@@ -1,4 +1,4 @@
-Laptop Selection Expert System
+**Laptop Selection Expert System**
 Project Overview
 
 The Laptop Selection Expert System is a simple rule-based application that recommends a suitable laptop category based on the user's requirements.
@@ -15,11 +15,11 @@ The system checks these requirements against predefined IF-THEN rules and gives 
 
 The project works completely offline and does not require an internet connection, database, or external API.
 
-Objective
+**Objective**
 
 The main objective of this project is to create a simple expert system that can help users select a suitable laptop category based on their requirements and budget.
 
-Features
+**Features**
 Simple graphical user interface using Tkinter
 Budget-based laptop recommendations
 Recommendations based on different usage types
@@ -137,7 +137,7 @@ Forward Chaining
 
 No external database or API is required.
 
-How to Run
+**How to Run**
 1. Install Python
 
 Install Python on your computer if it is not already installed.
